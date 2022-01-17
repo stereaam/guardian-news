@@ -1,0 +1,15 @@
+header {
+  height: 170px;
+  border-bottom: 1px solid black;
+}
+.logo {
+  width: 150px;
+  height: 150px;
+}
+.favorites-link {
+  text-decoration: none;
+  color: #ff304f;
+}
+.favorites-link:hover {
+  color: #f05e74;
+}
