@@ -1,0 +1,13 @@
+.favorites-article {
+  border-left: 5px solid lightgray;
+}
+
+.favorites-article-link {
+  text-decoration: none;
+  color: black;
+}
+
+.favorites-article-link:hover {
+  text-decoration: underline;
+  color: rgb(34, 34, 34);
+}
