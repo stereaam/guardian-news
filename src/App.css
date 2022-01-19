@@ -1,0 +1,8 @@
+.container-min-max-width {
+  min-width: 350px;
+  max-width: 1250px;
+}
+.App {
+  caret-color: transparent;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
