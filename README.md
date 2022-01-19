@@ -2,7 +2,7 @@
 
 Website link: https://react-guardian-news.herokuapp.com/
 
-_Heroku free plan server goes to sleep after 30 minutes of inactivity. The website will take longer to load the first time you access it!_
+_Heroku free plan server goes to sleep after 30 minutes of inactivity. It is possible that website loading will take longer the first time you access it!_
 
 ## Functionalities
 
