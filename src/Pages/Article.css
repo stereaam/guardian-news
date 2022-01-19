@@ -1,0 +1,11 @@
+.article {
+  border-left: 10px solid lightgray;
+}
+
+.article-link{
+  color: red;
+  font-weight: bold;
+}
+.article-link:hover{
+  color: red;
+}
