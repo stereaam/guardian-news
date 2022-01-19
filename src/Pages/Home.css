@@ -1,0 +1,8 @@
+.home-article {
+  height: 200px;
+  box-shadow: 6px 4px 12px 1px rgba(0, 0, 0, 0.3);
+}
+.home-article:hover {
+  transform: scale(1.02);
+  transition-duration: 0.5s;
+}
