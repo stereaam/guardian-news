@@ -6,10 +6,10 @@ header {
   width: 150px;
   height: 150px;
 }
-.favorites-link {
+.favorites {
   text-decoration: none;
   color: #ff304f;
 }
-.favorites-link:hover {
+.favorites:hover {
   color: #f05e74;
 }

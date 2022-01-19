@@ -6,7 +6,7 @@ import './Layout.css'
 function Layout(props) {
     
     return (
-        <div className='layout container-fluid container-min-max-width '>
+        <div className='layout container-fluid container-min-max-width'>
             <Header/>
                 {props.children}
             <Footer/>
